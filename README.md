@@ -1,6 +1,10 @@
 # SD.NEXT-ANDROID-TERMUX-
 Wooooooooohhhhhhhhooooo you can install SD.NEXT on Android!¡!
 
+
+DISABLE PHANTOM PROCESS KILLLER OR U WON'T BE ABLE TO MAKE IMAGES OVER 320X320!!!!
+
+
 You need at least 8-12-16 gb ram device to use this I'm still trying to figure out y triton won't install,if someone figures it out please let me know. but sdxl models do load on sdnext but no images will generate. I think it's because triton  won't install. plz someone figure it out cuz I can't 🙏 
 
 
